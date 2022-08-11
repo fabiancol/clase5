@@ -6,7 +6,8 @@ import ListaDePerros from './componentes/ListaPerros';
 function App() {
   return (
     <div >
-      <ListaDePerros></ListaDePerros>
+      
+      <ListaDePerros ></ListaDePerros>
       <h6>By Facu & Fabiancol & Virgi</h6>
     </div>
   );
