@@ -7,7 +7,7 @@ function App() {
   return (
     <div >
       <ListaDePerros></ListaDePerros>
-      <h6>By Facu & Fabiancol</h6>
+      <h6>By Facu & Fabiancol & Virgi</h6>
     </div>
   );
 }
